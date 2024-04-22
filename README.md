@@ -12,3 +12,11 @@
 ´´ Python startproject "nombre del proyecto"´´
 
 ´´ Python3 startproject "nombre del proyecto" ´´
+
+2) Testear sevidor
+
+´´ Python manage.py  runserver´´
+
+3) Crear una aplicacion dentro de mi proyecto
+
+´´ python manage.py startapp "nombre de la app ´´
