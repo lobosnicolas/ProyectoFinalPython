@@ -20,3 +20,7 @@
 3) Crear una aplicacion dentro de mi proyecto
 
 ´´ python manage.py startapp "nombre de la app ´´
+
+4) Crear un archivo path
+
+´´ crear en bookings un achivo url.py ´´ 
